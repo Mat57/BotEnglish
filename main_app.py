@@ -1,4 +1,4 @@
-import configparser
+
 from settings import TOKEN
 import telebot
 from telebot import types
